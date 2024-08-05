@@ -1,2 +1,2 @@
-# cgi_task_manager_app
+# CGI Task Manager App
 To-Do App
